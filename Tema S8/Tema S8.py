@@ -8,7 +8,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from selenium.webdriver.common.by import By
 
-# initializare Chrome
+#initializare Chrome
 
 s = Service(ChromeDriverManager().install())
 chrome = webdriver.Chrome(service=s)

@@ -1,0 +1,1 @@
+In acest repo se regasesc temele rezolvate de la cursul de testare automata IT Factory
